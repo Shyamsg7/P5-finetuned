@@ -1,0 +1,13 @@
+data
+notebooks/data
+notebooks/__pycache__
+pic
+snap/beauty-small-finetuned.pth
+snap/beauty-small.pth
+snap/toys_small.pth
+src/__pycache__
+src/data
+Data.zip
+REAFME.md
+
+
